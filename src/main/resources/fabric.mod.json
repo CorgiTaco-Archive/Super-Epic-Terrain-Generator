@@ -6,8 +6,7 @@
   "name": "Mod ID",
   "description": "An Example Merged Mappings mod!",
   "authors": [
-    "Corgi Taco",
-    "Barteks2x"
+    "Corgi Taco"
   ],
   "contact": {
     "homepage": "",
@@ -16,11 +15,11 @@
 
   "license": "MIT",
   "icon": "assets/modid/icon.png",
-
+  "accessWidener" : "modid.aw",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "corgitaco.mergedmappings.ExampleMod"
+      "corgitaco.chonkgenerator.ExampleMod"
     ]
   },
   "mixins": [
